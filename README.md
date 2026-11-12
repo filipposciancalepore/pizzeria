@@ -47,6 +47,4 @@ Il lavoro di gruppo ci ha permesso di dividere i compiti, collaborare e unire le
 
 Questa esperienza è stata utile per mettere in pratica le conoscenze acquisite e comprendere meglio come si realizza e si organizza un progetto web.
 
----
 
-**Progetto realizzato durante l'attività di laboratorio.**
